@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JanaBikash/static/css/main.ab35334f.css",
+    "main.js": "/JanaBikash/static/js/main.2291c7e9.js",
+    "static/js/453.d8d72fb8.chunk.js": "/JanaBikash/static/js/453.d8d72fb8.chunk.js",
+    "index.html": "/JanaBikash/index.html",
+    "main.ab35334f.css.map": "/JanaBikash/static/css/main.ab35334f.css.map",
+    "main.2291c7e9.js.map": "/JanaBikash/static/js/main.2291c7e9.js.map",
+    "453.d8d72fb8.chunk.js.map": "/JanaBikash/static/js/453.d8d72fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab35334f.css",
+    "static/js/main.2291c7e9.js"
+  ]
+}
