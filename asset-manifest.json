@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JanaBikash/static/css/main.ab35334f.css",
-    "main.js": "/JanaBikash/static/js/main.704eb5cc.js",
+    "main.js": "/JanaBikash/static/js/main.bcca382f.js",
     "static/js/453.d8d72fb8.chunk.js": "/JanaBikash/static/js/453.d8d72fb8.chunk.js",
     "index.html": "/JanaBikash/index.html",
     "main.ab35334f.css.map": "/JanaBikash/static/css/main.ab35334f.css.map",
-    "main.704eb5cc.js.map": "/JanaBikash/static/js/main.704eb5cc.js.map",
+    "main.bcca382f.js.map": "/JanaBikash/static/js/main.bcca382f.js.map",
     "453.d8d72fb8.chunk.js.map": "/JanaBikash/static/js/453.d8d72fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab35334f.css",
-    "static/js/main.704eb5cc.js"
+    "static/js/main.bcca382f.js"
   ]
 }
